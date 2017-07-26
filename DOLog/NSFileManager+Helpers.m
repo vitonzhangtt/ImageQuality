@@ -1,10 +1,6 @@
 //
 //  NSFileManager+Helpers.m
 //  
-//
-//  Created by Adam Kull on 18/05/15.
-//  Copyright (c) 2015 P1. All rights reserved.
-//
 
 #import "NSFileManager+Helpers.h"
 

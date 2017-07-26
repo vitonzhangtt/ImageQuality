@@ -123,8 +123,6 @@ typedef NS_ENUM(NSUInteger, DOViewTag) {
     [self presentViewController:pickerController animated:YES completion:nil];
 }
 
-
-
 - (void)saveData:(NSData *)data toFile:(NSString *)fileName {
     
     NSURL *documentsURL = [[[NSFileManager defaultManager] URLsForDirectory:NSDocumentDirectory inDomains:NSUserDomainMask] firstObject];
