@@ -7,6 +7,7 @@ The relationship between 'compressionQuality' and 'jpeg's quality'.
 
  compressionQuality | jpeg's quality 
  --- | --- 
+ 0.9  | 96
  0.7  | 91 
  0.6  | 86 
  0.5  | 78 
