@@ -13,5 +13,5 @@ The relationship between 'compressionQuality' and 'jpeg's quality'.
  0.5  | 78 
  0.45 | 72 
 
-The jpeg's quality is acquired by the command ling `identify -verbose filename.jpeg` .
+The jpeg's quality is acquired by the command `identify -verbose filename.jpeg` .
 
